@@ -1,7 +1,7 @@
 # Promblem - binary serach 
 # Approach - binary serach 
-# Time and space complexity - 0(n) & 0(n) 
-# Leetcode4 and diffculty level - 704 & easy 
+# Time and space complexity - 0(log n) & 0(1) 
+# Leetcode and diffculty level - 704 & easy 
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
