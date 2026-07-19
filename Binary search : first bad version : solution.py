@@ -2,8 +2,6 @@
 # Approach - binary search 
 # Time and space complexity - 0(log n) & 0(1)
 # Leetcode and diffculty level - 278 & easy 
-// The API isBadVersion is defined for you.
-// bool isBadVersion(int version);
 
 class Solution {
 public:
